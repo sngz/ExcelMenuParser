@@ -1,0 +1,16 @@
+com\foodrun\excelparser\vo\MenuItemVo.class
+com\foodrun\excelparser\dao\Restaurant2Dao.class
+com\foodrun\excelparser\domain\MenuItem.class
+com\foodrun\excelparser\util\HibernateUtil.class
+com\foodrun\excelparser\domain\MenuSection.class
+com\foodrun\excelparser\parser\FileParser.class
+com\foodrun\excelparser\parser\ExcelParser.class
+com\foodrun\excelparser\parser\ExcelParser$ExcelFileExtension.class
+com\foodrun\excelparser\vo\VariationVo.class
+com\foodrun\excelparser\vo\RestaurantVo.class
+com\foodrun\excelparser\export\RestaurantXmlExporter.class
+com\foodrun\excelparser\domain\MenuItemVariation.class
+com\foodrun\excelparser\App.class
+com\foodrun\excelparser\domain\MenuPage.class
+com\foodrun\excelparser\vo\MenuPageVo.class
+com\foodrun\excelparser\domain\Restaurant2.class
